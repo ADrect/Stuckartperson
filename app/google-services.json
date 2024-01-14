@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "890120961151",
+    "firebase_url": "https://stuckcartjava-default-rtdb.firebaseio.com",
+    "project_id": "stuckcartjava",
+    "storage_bucket": "stuckcartjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890120961151:android:98498ee6e2cf6ca445d34a",
+        "android_client_info": {
+          "package_name": "com.example.stuckart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890120961151-gtb73eesee00hh5j9djg9rgii840c6ne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stuckart",
+            "certificate_hash": "d2acfdeaa7f6294be2263c737962b7168e44431a"
+          }
+        },
+        {
+          "client_id": "890120961151-d42shaojrbmgb84to9tf95fkotj43hl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_9vGaWLgY1uYYFqobNxdNERLfj2qUeMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890120961151-d42shaojrbmgb84to9tf95fkotj43hl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

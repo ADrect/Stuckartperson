@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stuckart</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="not_have_account_register">Not Have Account? <b>Register</b></string>
+    <string name="already_have_account_login">Already Have Account? <b>login</b></string>
+    <string name="default_web_client_id">298337612025-5kpe30infp9hdgfvpnr8fedvfcjolv4h.apps.googleusercontent.com</string>
+    <string name="didt_sent_otp_resend">Did\'t sent OTP<b>Resend</b></string>
+    <string name="forgot_password_recover">Forgot Password?<b>Recover</b></string>
+    <string name="google_map_api_key">AIzaSyCeTdRitFl4O42jiJuauF4yVHeyts77MDk</string>
+    <string name="price_symbol">$</string>
+</resources>

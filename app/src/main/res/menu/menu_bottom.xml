@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--Menu item to show Home Fragment-->
+    <item android:id="@+id/menu_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_white"/>
+
+    <!--Menu item to show Chats Fragment-->
+    <item android:id="@+id/menu_chats"
+        android:title="Chats"
+        android:icon="@drawable/ic_chats_white"/>
+
+    <!--Menu item disabled (so it will not be clickable), will place FloatingActionnButton-->
+    <item android:id="@+id/menu_sell"
+    android:title="Sell"
+    android:enabled="false"/>
+
+    <!--Menu item to show My Ads Fragment-->
+    <item android:id="@+id/menu_my_ads"
+        android:title="My Ads"
+        android:icon="@drawable/ic_heart_white"/>
+
+    <!--Menu item to show Account Fragment-->
+    <item android:id="@+id/menu_account"
+        android:title="Account"
+        android:icon="@drawable/ic_person_white"/>
+
+</menu>
